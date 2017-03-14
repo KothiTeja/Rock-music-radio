@@ -10,7 +10,6 @@ Analysis Part 1 - SQL
   Basic statistcis and top charts
 
 Analysis Part 2 - Tableau
-  Public link - 
   Basic visualization and overview
 
 Analysis Part 3 - SAS
